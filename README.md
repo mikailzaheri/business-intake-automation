@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/python-3.10-blue)
+![FastAPI](https://img.shields.io/badge/framework-fastapi-green)
+![License](https://img.shields.io/badge/license-MIT-lightgrey)
+
 # Business Intake Automation Demo
 
 A simple workflow automation backend that simulates how businesses can automate client intake, categorize requests, assign urgency, and prepare structured summaries for internal follow-up systems.
